@@ -53,7 +53,7 @@
 - OpenAI API 기반 AI 챗봇 구현
 - 클라우드 환경에서 독립 서비스 운영
 
-👉 Repo: https://github.com/tengo99/unplug
+👉 Repo: https://github.com/BridgeON-Team/unplug-chatbot
 
 ---
 
@@ -65,7 +65,7 @@
 - GPT 기반 자동 요약
 - AWS EC2 / S3 / RDS / Redis 활용한 배포
 
-👉 Repo: https://github.com/tengo99/ai-video-summarization
+👉 Repo: https://github.com/tengo99/video-summary-service
 
 ---
 
