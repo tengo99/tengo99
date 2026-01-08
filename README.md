@@ -25,9 +25,9 @@
 
 | Title | Description | Stack | Duration | More |
 |---|---|---|---|---|
-| **Unplug Chatbot (MSA)** | 실시간 챗봇 (WebSocket + GPT) | Spring Boot, JPA, WebSocket | 2025.05 ~ 2025.11 | [GitHub](https://github.com/tengo99) |
-| **AI Video Summary** | 영상 업로드→분할→Whisper→요약 | FastAPI, ffmpeg, Redis, S3 | 2025.03 ~ 2025.06 | [GitHub](https://github.com/tengo99) |
-| **감성 글귀 SNS We-Ro** | 영상 업로드→분할→Whisper→요약 | FastAPI, ffmpeg, Redis, S3 | 2024.04 ~ 2024.06 | [GitHub](https://github.com/tengo99) |
+| **Unplug** | 디지털 디톡스 앱 | Spring Boot, Java, JPA, WebSocket | 2025.05 ~ 2025.11 | [GitHub](https://github.com/tengo99) |
+| **AI Video Summary** | 동영상 요약 서비스 | FastAPI, ffmpeg, Redis, AWS, Docker | 2025.03 ~ 2025.06 | [GitHub](https://github.com/tengo99) |
+| **We-Ro** | 감성 글귀 SNS | Spring Boot, Java, JPA, MySQL | 2024.04 ~ 2024.06 | [GitHub](https://github.com/tengo99) |
 
 ---
 
