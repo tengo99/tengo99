@@ -69,6 +69,16 @@
 
 ---
 
+###  We-Ro
+**SpringBoot와 JPA기반 감성 글귀 SNS**
+
+- SpringBoot 기반 SNS
+- Restful API, Gradle, JPA, React, Docker, MySQL, Jenkins, Java17, Amazon Web Services
+  
+ Repo: https://github.com/tengo99/wero-sns
+
+---
+
 ##  What I Focus On
 
 - 단순 CRUD를 넘어선 **서비스 구조 설계**
