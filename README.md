@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tengo99 (최기원)
+# I'm Tengo99 (최기원)
 
 백엔드 개발을 중심으로  
 **AI · 클라우드 · MSA 환경에서 실제 동작하는 서비스를 구현하는 개발자**입니다.  
@@ -8,17 +8,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Computer Science Major
-- 💻 Backend Developer (Spring Boot / FastAPI)
-- ☁️ Cloud & DevOps (AWS, Kubernetes)
-- 🤖 AI Application (GPT, Whisper)
-- 🧩 Interested in MSA, Real-time Service, AI Pipeline
+-  Computer Science Major
+-  Backend Developer (Spring Boot / FastAPI)
+-  Cloud & DevOps (AWS, Kubernetes)
+-  AI Application (GPT, Whisper)
+-  Interested in MSA, Real-time Service, AI Pipeline
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Spring Boot**, **FastAPI**
@@ -43,9 +43,9 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🔹 UnPlug
+###  UnPlug
 **MSA 기반 AI 스마트폰 디톡스 서비스**
 
 - Microservices Architecture 기반 서비스 설계
@@ -53,11 +53,11 @@
 - OpenAI API 기반 AI 챗봇 구현
 - 클라우드 환경에서 독립 서비스 운영
 
-👉 Repo: https://github.com/BridgeON-Team/unplug-chatbot
+ Repo: https://github.com/BridgeON-Team/unplug-chatbot
 
 ---
 
-### 🔹 AI Video Summarization Pipeline
+###  AI Video Summarization Pipeline
 **AWS 기반 Whisper & GPT 영상 요약 파이프라인**
 
 - FastAPI 기반 대용량 영상 업로드 API
@@ -65,11 +65,11 @@
 - GPT 기반 자동 요약
 - AWS EC2 / S3 / RDS / Redis 활용한 배포
 
-👉 Repo: https://github.com/tengo99/video-summary-service
+ Repo: https://github.com/tengo99/video-summary-service
 
 ---
 
-## 🧠 What I Focus On
+##  What I Focus On
 
 - 단순 CRUD를 넘어선 **서비스 구조 설계**
 - AI 기능을 실제 서비스에 녹여내는 방법
@@ -78,11 +78,11 @@
 
 ---
 
-## 📫 Contact
+##  Contact
 
-- 📧 Email: longvaca0213@gmail.com
-- 🧑‍💻 GitHub: https://github.com/tengo99
+-  Email: longvaca0213@gmail.com
+-  GitHub: https://github.com/tengo99
 
 ---
 
-⭐️ *꾸준히 기록하고, 실제로 동작하는 서비스를 만듭니다.*
+ *꾸준히 기록하고, 실제로 동작하는 서비스를 만듭니다.*
