@@ -79,6 +79,20 @@ Repo: https://github.com/tengo99/wero-sns
 
 ---
 
+### Payments Service  
+**割引ポリシーと注文時点の履歴保持を重視した決済システム**
+
+- 会員ランクおよび決済手段に応じた割引ロジックを実装  
+- 注文時点の割引内容をスナップショットとして保存し、  
+  ポリシー変更後も過去の決済履歴が影響を受けない設計
+- 基本要件（main）と拡張要件（feature）をブランチ分離して実装
+- 割引計算ロジックと履歴データを分離し、責務を明確化
+- 単体テスト・整合性テストにより割引適用の正当性を検証
+
+**Tech**: Java 17 / Spring Boot / Spring Data JPA / H2 / Gradle / JUnit 5  
+
+Repo: https://github.com/tengo99/payments
+
 ## What I Focus On
 
 - 単純な CRUD を超えた **サービス構造設計**
