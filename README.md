@@ -1,98 +1,105 @@
 # 최기원
 
-백엔드 개발을 중심으로  
-**AI · 클라우드 · MSA 환경에서 실제 동작하는 서비스를 구현하는 개발자**입니다.  
+バックエンド開発を中心に、
+**AI・クラウド・MSA環境で実際に動作するサービスを実装する開発者**です。
 
-단순한 기능 구현을 넘어,  
-**확장 가능한 아키텍처와 실서비스 관점의 설계**를 중요하게 생각합니다.
-
----
-
-##  About Me
-
--  Computer Science Major
--  Backend Developer (Spring Boot / FastAPI)
--  Cloud & DevOps (AWS, Kubernetes)
--  AI Application (GPT, Whisper)
--  Interested in MSA, Real-time Service, AI Pipeline
+単なる機能実装にとどまらず、
+**拡張性のあるアーキテクチャと、実サービスを意識した設計**を大切にしています。
 
 ---
 
-##  Tech Stack
+## About Me
+
+* Computer Science Major
+* Backend Developer（Spring Boot / FastAPI）
+* Cloud & DevOps（AWS, Kubernetes）
+* AI Application（GPT, Whisper）
+* MSA、リアルタイムサービス、AIパイプラインに関心があります
+
+---
+
+## Tech Stack
 
 ### Backend
-- **Spring Boot**, **FastAPI**
-- JPA / Hibernate
-- REST API 설계
+
+* **Spring Boot**, **FastAPI**
+* JPA / Hibernate
+* REST API設計
 
 ### AI
-- OpenAI **GPT API**
-- OpenAI **Whisper**
-- AI Pipeline 설계 및 자동화
+
+* OpenAI **GPT API**
+* OpenAI **Whisper**
+* AIパイプライン設計・自動化
 
 ### Cloud / Infra
-- **AWS (EC2, S3, RDS, IAM)**
-- **Kubernetes (NKS)**
-- Docker
-- NGINX
-- CI/CD Pipeline
+
+* **AWS（EC2, S3, RDS, IAM）**
+* **Kubernetes（NKS）**
+* Docker
+* NGINX
+* CI/CD Pipeline
 
 ### Database / Cache
-- MySQL
-- Redis
+
+* MySQL
+* Redis
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  UnPlug
-**MSA 기반 AI 스마트폰 디톡스 서비스**
+### UnPlug
 
-- Microservices Architecture 기반 서비스 설계
-- Gateway 중심 인증 구조
-- OpenAI API 기반 AI 챗봇 구현
-- 클라우드 환경에서 독립 서비스 운영
+**MSAベースのAIスマートフォン・デトックスサービス**
 
- Repo: https://github.com/BridgeON-Team/unplug-chatbot
+* Microservices Architectureに基づいたサービス設計
+* Gatewayを中心とした認証構成
+* OpenAI APIを活用したAIチャットボットの実装
+* クラウド環境における独立サービス運用
 
----
-
-###  AI Video Summarization Pipeline
-**AWS 기반 Whisper & GPT 영상 요약 파이프라인**
-
-- FastAPI 기반 대용량 영상 업로드 API
-- ffmpeg + Whisper 음성 인식 파이프라인
-- GPT 기반 자동 요약
-- AWS EC2 / S3 / RDS / Redis 활용한 배포
-
- Repo: https://github.com/tengo99/video-summary-service
+Repo: https://github.com/BridgeON-Team/unplug-chatbot
 
 ---
 
-###  We-Ro
-**SpringBoot와 JPA기반 감성 글귀 SNS**
+### AI Video Summarization Pipeline
 
-- SpringBoot 기반 SNS
-- Restful API, Gradle, JPA, React, Docker, MySQL, Jenkins, Java17, Amazon Web Services
-  
- Repo: https://github.com/tengo99/wero-sns
+**AWS上で構築したWhisper & GPTによる動画要約パイプライン**
 
----
+* FastAPIによる大容量動画アップロードAPI
+* ffmpeg + Whisperを用いた音声認識パイプライン
+* GPTによる自動要約生成
+* AWS EC2 / S3 / RDS / Redisを活用したデプロイ
 
-##  What I Focus On
-
-- 단순 CRUD를 넘어선 **서비스 구조 설계**
-- AI 기능을 실제 서비스에 녹여내는 방법
-- 클라우드 환경에서의 배포와 운영
-- 팀 프로젝트에서의 협업과 역할 분담
+Repo: https://github.com/tengo99/video-summary-service
 
 ---
 
-##  Contact
+### We-Ro
 
--  Email: longvaca0213@gmail.com
--  GitHub: https://github.com/tengo99
+**Spring Boot・JPAベースの感情共有型SNS**
+
+* Spring Bootを用いたSNSサービス開発
+* RESTful API, Gradle, JPA, React, Docker, MySQL, Jenkins, Java 17, AWSを活用
+
+Repo: https://github.com/tengo99/wero-sns
 
 ---
 
- *꾸준히 기록하고, 실제로 동작하는 서비스를 만듭니다.*
+## What I Focus On
+
+* 単なるCRUDにとどまらない**サービス構造設計**
+* AI機能を実サービスに組み込む方法
+* クラウド環境でのデプロイと運用
+* チーム開発における協業と役割分担
+
+---
+
+## Contact
+
+* Email: [longvaca0213@gmail.com](mailto:longvaca0213@gmail.com)
+* GitHub: https://github.com/tengo99
+
+---
+
+*継続的に記録し、実際に動作するサービスを作ります。*
